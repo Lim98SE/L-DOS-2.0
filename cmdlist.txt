@@ -1,0 +1,10 @@
+break: close
+dir: current directory
+dirs: search directroy
+cd: change directory
+pd: previous directory
+delfile: delete file
+fshop: function shop
+editor: text editor
+search: https://www.google.com
+website: https://sites.google.com/view/l-dos-offical/home
